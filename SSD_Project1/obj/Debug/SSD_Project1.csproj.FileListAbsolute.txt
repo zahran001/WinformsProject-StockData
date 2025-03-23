@@ -1,0 +1,10 @@
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\bin\Debug\SSD_Project1.exe.config
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\bin\Debug\SSD_Project1.exe
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\bin\Debug\SSD_Project1.pdb
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.csproj.AssemblyReference.cache
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.Form1.resources
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.Properties.Resources.resources
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.csproj.GenerateResource.cache
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.csproj.CoreCompileInputs.cache
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.exe
+C:\Users\minha\OneDrive\Desktop\SSD\SSD_Project1 - Git\SSD_Project1\obj\Debug\SSD_Project1.pdb
